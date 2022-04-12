@@ -1,2 +1,2 @@
 # bash
-sample bash script
+Sample bash script to build docker container and push to AWS ECR repository
